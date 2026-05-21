@@ -1,0 +1,9 @@
+{
+  "name": "source-asia-backend",
+  "version": "1.0.0",
+  "description": "Rate-limited API and Product Catalog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
